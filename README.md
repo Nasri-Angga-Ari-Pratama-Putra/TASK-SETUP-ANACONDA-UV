@@ -172,6 +172,7 @@ Ringan & Efisien: UV fokus pada satu misi: manajemen paket Python yang efisien. 
 Singkatnya: Pilih UV ketika Anda butuh kecepatan maksimal untuk proyek Python murni Anda. Ini adalah alat baru yang wajib Anda coba untuk pengalaman coding yang lebih mulus!
 
 Berikut cara membuat uv environment baru:
+
 	1. Pastikan lingkungan Conda tidak aktif (jalankan conda deactivate jika perlu).
 	2. Ketik: pip install uv
 	3. jika keluar output seperti Successfully installed uv-0.7.12 maka pembuatan uv environment baru berhasil
