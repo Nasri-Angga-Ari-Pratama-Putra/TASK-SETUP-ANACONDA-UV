@@ -48,10 +48,10 @@ Untuk pengalaman terlengkap dan termudah, kita akan memulai dengan Anaconda. Ing
 
 ![image](https://github.com/user-attachments/assets/901655f0-1af9-4488-95aa-1ad47e7f3c1f)
 
-Do's:
+	Do's:
 	- Download dari situs resmi Anaconda
 	- Simpan installer di folder yang mudah diakses
-   Don'ts:
+	Don'ts:
 	- Jangan download dari sumber tidak resmi
 	- Jangan simpan di folder system
 
