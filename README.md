@@ -46,7 +46,7 @@ Untuk pengalaman terlengkap dan termudah, kita akan memulai dengan Anaconda. Ing
 2. Pilih Senjata Rahasia Anda: Di sana, Anda akan melihat pilihan untuk berbagai sistem operasi (Windows, macOS, Linux). Pilih yang sesuai dengan komputer Anda.
 3. Mulai Pengunduhan: Klik tombol "Download" atau "Unduh". Tunggu sebentar selagi file raksasa ini mendarat di perangkat Anda. Sambil menunggu, siapkan kopi☕ atau teh🍵.
 
-![image](https://github.com/user-attachments/assets/901655f0-1af9-4488-95aa-1ad47e7f3c1f)
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Dowonload%20Anaconda.png)
 
 	Do's:
 	- Download dari situs resmi Anaconda
