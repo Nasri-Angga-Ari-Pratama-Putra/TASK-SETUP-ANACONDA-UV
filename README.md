@@ -111,9 +111,9 @@ Tujuan konfigurasi PATH untuk Anaconda/Conda:
 
 **💡Cara Konfigurasi Variabel Lingkungan PATH untuk Conda dan Anaconda**
 
-1. Jika Anda TIDAK Mencentang "Add Anaconda to my PATH" saat instalasi:
+1. Jika Anda TIDAK Mencentang✅"Add Anaconda to my PATH" saat instalasi:
 Anda HARUS selalu menggunakan "Anaconda Prompt" (cari di Start Menu) untuk menjalankan perintah conda dan python yang terkait dengan Anaconda. Anaconda Prompt secara otomatis mengkonfigurasi PATH untuk sesi tersebut. Ini adalah cara paling aman untuk menghindari konflik.
-2. Jika Anda ingin MENAMBAHKAN Anaconda ke PATH secara manual (dengan hati-hati):
+2. Jika Anda ingin MENAMBAHKAN Anaconda ke PATH secara manual (dengan hati-hati⚠️):
 Ini hanya disarankan jika Anda memahami risiko konflik dan tahu cara mengatasinya.
 	- Cari Jalur Instalasi Anaconda Anda. Biasanya di C:\Users\YourUsername\anaconda3 atau C:\ProgramData\anaconda3.
 	- Anda perlu menambahkan beberapa sub-folder dari instalasi Anaconda ke PATH. Biasanya ini adalah:
