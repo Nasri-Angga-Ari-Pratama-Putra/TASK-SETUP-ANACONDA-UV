@@ -129,3 +129,24 @@ C:\Users\YourUsername\anaconda3 (atau lokasi instalasi Anda)
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Edit%20environment.png)
 
+	Do's:
+	- Pastikan sudah menutup atau restart CMD atau buka yang baru setelah konfigurasi
+	Don'ts:
+	- Jangan menghapus PATH penting lainnya.
+ 	- Hati-hati saat edit variabel lingkungan.
+
+### Misi 5🎯: Membuat Lingkungan Conda Baru
+
+Pernahkah kalian bingung kenapa satu proyek Python jalan lancar, tapi proyek lain malah error karena versi pustaka yang beda? Itu namanya "konflik versi"!
+
+Nah, Conda punya solusi keren: kalian bisa membuat lingkungan baru. Bayangkan ini seperti membuat "ruangan pribadi" di komputer kalian khusus untuk satu proyek.
+
+Setiap Ruangan Punya Aturan Sendiri: Di "ruangan" ini, kalian bisa pasang Python versi berapa saja dan semua pustaka yang dibutuhkan proyek itu. Semuanya aman dan terpisah dari proyek lain.
+Bebas Konflik: Kalau ada yang salah di satu "ruangan", proyek lain tidak akan ikut terganggu. kalian bisa coba-coba atau eksperimen tanpa takut merusak yang lain.
+Lebih Rapi: Proyek Anda jadi lebih terorganisir. Setiap proyek punya alat dan bahannya sendiri!
+Jadi, daripada pusing mikirin konflik, pakai saja Conda untuk membuat "ruangan" khusus untuk setiap proyek kalian. Hidup ngoding kalain pasti lebih tenang!
+
+Berikut langkah-langkah jika ingin membuat lingkungan conda baru 
+
+	- Jalankan perintah berikut di terminal: conda create -n nama_env python=3.9
+  
