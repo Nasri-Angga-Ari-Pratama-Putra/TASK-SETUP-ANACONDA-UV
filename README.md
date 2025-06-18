@@ -161,7 +161,7 @@ Don'ts:
 
 ## Bagian 2: UV Environment!
 
-### 1: Membuat Environment Baru
+### 1. Membuat Environment Baru
 
 **Apa Itu UV Environment?**
 Ini bukan manajer lingkungan baru, melainkan lingkungan virtual Python standar (venv) yang ditenagai oleh UV. UV adalah manajer paket super cepat yang akan membuat instalasi paket di lingkungan venv Anda jadi ngebut!
@@ -181,7 +181,7 @@ Berikut cara membuat uv environment baru:
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/UV%20Environment.png)
 
-### 2: Menginisialisasi Proyek UV
+### 2. Menginisialisasi Proyek UV
 
 **Apa itu Inisialisasi Proyek UV?**
 
@@ -198,7 +198,7 @@ Jawabannya sederhana: agar proyek Python Anda berjalan lancar, teratur, dan beba
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Menginisialisasi%20UV.png)
 
-### 3: Install Paket Yang Dibutuhkan
+### 3. Install Paket Yang Dibutuhkan
 
 Menginstal paket yang dibutuhkan itu artinya menambahkan pustaka atau modul Python eksternal ke dalam lingkungan proyek kalian agar kode Anda bisa menggunakannya.
 
@@ -215,7 +215,7 @@ Berikut langkah-langkah yang harus dilakukan:
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Install%20paket.png)
 
-### 4: Menonaktifkan Lingkungan UV
+### 4. Menonaktifkan Lingkungan UV
 
 Menonaktifkan lingkungan UV adalah tentang kontrol dan kejelasan. Ini memberimu fleksibilitas untuk beralih antar proyek, kembali ke lingkungan sistem, dan menjaga ruang kerjamu tetap teratur.
 
@@ -227,14 +227,46 @@ Berikut langkah-langkahnya:
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Menonaktifkan%20UV.png)
 
-### 5: Perbandingan Conda vs UV
+### 5. Perbandingan Conda vs UV
 
 Conda dan UV adalah dua alat manajemen paket dan lingkungan virtual yang populer dalam ekosistem Python, tetapi mereka memiliki filosofi dan cakupan yang berbeda. Memahami perbedaannya akan membantu Anda memilih alat yang tepat untuk kebutuhan proyek Anda.
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Anaconda%20vs%20UV.png)
 
+### 6. Pemecahan Masalah pada Conda dan UV
+
+	Masalah umum dan solusinya:
+	Masalah 1: Perintah Conda Tidak Dikenali
+	Gejala: 'conda' is not recognized
+	Solusi:
+	- Verifikasi instalasi Anaconda.
+	- Periksa PATH.
+	- Jalankan conda init cmd.exe, mulai ulang terminal.
+	
+	Masalah 2: Aktivasi Lingkungan Gagal
+	Gejala: Script execution is disabled
+	Solusi:
+	- Jalankan PowerShell sebagai Administrator.
+	- Ketik Set-ExecutionPolicy RemoteSigned.
+	- Pilih "Y".
+	
+	Masalah 3: Kesalahan Instalasi Paket
+	Gejala: Could not find a version
+	Solusi:
+	- Perbarui pip: python -m pip install --upgrade pip.
+	- Periksa kompatibilitas Python.
+	- Coba versi paket lain.
+	
+	Do's:
+	- Selalu baca dokumentasi dan pesan error.
+	- Gunakan forum komunitas dan stackoverflow.
+	
+	Don'ts:
+	- Jangan mengabaikan pesan error.
+	- Jangan memaksa instalasi tanpa verifikasi.
+
 ## 📌Kesimpulan
 
-UV adalah alat modern yang cepat dan terpadu untuk manajemen proyek Python yang memungkinkan Anda fokus pada kode, bukan pada masalah dependensi. Meskipun Conda lebih cocok untuk proyek multi-bahasa atau sains data dengan dependensi non-Python yang kompleks, UV bersinar dalam kecepatan dan kesederhanaannya untuk proyek Python murni, menjadikannya pilihan yang sangat menarik bagi sebagian besar pengembang Python saat ini.
+	UV adalah alat modern yang cepat dan terpadu untuk manajemen proyek Python yang memungkinkan Anda fokus pada kode, bukan pada masalah dependensi. Meskipun Conda lebih cocok untuk proyek multi-bahasa atau sains data dengan dependensi non-Python yang kompleks, UV bersinar dalam kecepatan dan kesederhanaannya untuk proyek Python murni, menjadikannya pilihan yang sangat menarik bagi sebagian besar pengembang Python saat ini.
 
 ## Sekian Dan Terima Kasih👋👋
