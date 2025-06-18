@@ -194,7 +194,6 @@ Jawabannya sederhana: agar proyek Python Anda berjalan lancar, teratur, dan beba
 	Berikut langkah-langkah menginisialisasi proyek UV:
 	1. Pastikan environment UV sudah aktif
 	2. Ketik: uv init ghost_intellixuv
-           Cd ghost intellixuv
 	3. Output menunjukkan proyek diinisialisasi di C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv.
 
 ![image]()
