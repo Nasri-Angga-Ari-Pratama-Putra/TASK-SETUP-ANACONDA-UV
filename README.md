@@ -230,4 +230,11 @@ Berikut langkah-langkahnya:
 ### 5: Perbandingan Conda vs UV
 
 Conda dan UV adalah dua alat manajemen paket dan lingkungan virtual yang populer dalam ekosistem Python, tetapi mereka memiliki filosofi dan cakupan yang berbeda. Memahami perbedaannya akan membantu Anda memilih alat yang tepat untuk kebutuhan proyek Anda.
- 
+
+![image]()
+
+## 📌Kesimpulan
+
+UV adalah alat modern yang cepat dan terpadu untuk manajemen proyek Python yang memungkinkan Anda fokus pada kode, bukan pada masalah dependensi. Meskipun Conda lebih cocok untuk proyek multi-bahasa atau sains data dengan dependensi non-Python yang kompleks, UV bersinar dalam kecepatan dan kesederhanaannya untuk proyek Python murni, menjadikannya pilihan yang sangat menarik bagi sebagian besar pengembang Python saat ini.
+
+## Sekian Dan Terima Kasih👋👋
