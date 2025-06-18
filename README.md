@@ -197,4 +197,4 @@ Jawabannya sederhana: agar proyek Python Anda berjalan lancar, teratur, dan beba
            Cd ghost intellixuv
 	3. Output menunjukkan proyek diinisialisasi di C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv.
 
-
+![image]()
