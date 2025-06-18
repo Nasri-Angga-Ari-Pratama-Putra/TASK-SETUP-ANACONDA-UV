@@ -64,5 +64,25 @@ Setelah file terunduh, saatnya untuk menginstalnya. Jangan khawatir, prosesnya s
 
 🎉Selamat! Anda kini telah berhasil menginstal Anaconda dan siap menjelajahi dunia data science dan pemrograman Python dengan perangkat canggih di tangan Anda!👏
 
+### Misi 3🎯: Verifikasi Anaconda yang sudah terinstall
+Setelah susah payah mengunduh dan menginstal Anaconda, mungkin muncul pertanyaan: "Buat apa sih memverifikasinya lagi? Kan sudah selesai?" Nah, memverifikasi instalasi Anaconda itu penting banget! Anggap saja ini seperti memeriksa kembali apakah semua baut terpasang kencang setelah merakit sebuah furnitur mahal. Anda tidak ingin tiba-tiba ada bagian yang copot saat dipakai, kan?
+
+Berikut adalah alasan utama kenapa Anda perlu memverifikasi instalasi Anaconda Anda:
+1. Memastikan Instalasi Berhasil Sempurna
+2. Konfirmasi Akses PATH yang Benar
+3. Menguji Fungsionalitas Dasar Conda
+4. Menghindari Frustrasi di Kemudian Hari
+5. Memastikan Versi yang Tepat
+
+Singkatnya, memverifikasi instalasi Anaconda itu seperti melakukan checklist pra-penerbangan sebelum pesawat lepas landas. Ini memberikan Anda ketenangan pikiran dan memastikan bahwa semua alat Anda siap tempur, sehingga Anda bisa langsung fokus pada analisis data atau pembuatan model tanpa hambatan teknis yang tidak perlu.
+
+Jadi, setelah menginstal, jangan lewatkan langkah verifikasi ini ya! Ini akan sangat membantu Anda dalam jangka panjang.
+
+**📝Langkah langkah memverifikasi** 
+1. Buka terminal atau comand prompt atau klik windows + R
+2. Kemudian ketik perintah : conda --version
+3. Jika muncul versi conda, instalasi sudah sukses.
+
+
 
 
