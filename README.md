@@ -83,6 +83,7 @@ Jadi, setelah menginstal, jangan lewatkan langkah verifikasi ini ya! Ini akan sa
 2. Kemudian ketik perintah : conda --version
 3. Jika muncul versi conda, instalasi sudah sukses.
 
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Verifikasi%20conda.png)
 
 
 
