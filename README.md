@@ -1,10 +1,10 @@
 # TASK-SETUP-ANACONDA-UV
 ---
-Perkenalkan nama saya Nasri Angga Ari Pratama Putra
+**Perkenalkan nama saya Nasri Angga Ari Pratama Putra**
 
-No absen 10.003.DB2025 
+**No absen 10.003.DB2025** 
 
-Asal saya dari Jambi
+**Asal saya dari Jambi**
 
 ## 👋Halo sahabat eco techno leader dan sobat semua
 
@@ -46,4 +46,12 @@ Untuk pengalaman terlengkap dan termudah, kita akan memulai dengan Anaconda. Ing
 2. Pilih Senjata Rahasia Anda: Di sana, Anda akan melihat pilihan untuk berbagai sistem operasi (Windows, macOS, Linux). Pilih yang sesuai dengan komputer Anda.
 3. Mulai Pengunduhan: Klik tombol "Download" atau "Unduh". Tunggu sebentar selagi file raksasa ini mendarat di perangkat Anda. Sambil menunggu, siapkan kopi☕ atau teh🍵.
 
+![image](https://github.com/user-attachments/assets/901655f0-1af9-4488-95aa-1ad47e7f3c1f)
+
+Do's:
+	- Download dari situs resmi Anaconda
+	- Simpan installer di folder yang mudah diakses
+   Don'ts:
+	- Jangan download dari sumber tidak resmi
+	- Jangan simpan di folder system
 
