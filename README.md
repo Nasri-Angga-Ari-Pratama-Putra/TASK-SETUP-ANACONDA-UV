@@ -121,7 +121,7 @@ C:\Users\YourUsername\anaconda3 (atau lokasi instalasi Anda)
 3. Buka Pengaturan Variabel Lingkungan:
  	 - Tekan Windows + R, ketik sysdm.cpl, lalu tekan Enter.
   	 - Pilih tab "Advanced", lalu klik "Environment Variables...".
-   	 - i bagian "System variables" atau "User variables" (lebih disarankan di "User variables" untuk akun Anda sendiri), temukan variabel bernama Path.
+   	 - Di bagian "System variables" atau "User variables" (lebih disarankan di "User variables" untuk akun Anda sendiri), temukan variabel bernama Path.
   	 - Klik "Edit...".
   	 - Klik "New" dan tambahkan setiap jalur di atas satu per satu. Pastikan urutannya benar (jalur Anaconda biasanya diletakkan di bagian atas daftar agar diprioritaskan).
   	 - Klik "OK" untuk semua jendela yang terbuka.
