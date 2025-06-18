@@ -60,9 +60,11 @@ Untuk pengalaman terlengkap dan termudah, kita akan memulai dengan Anaconda. Ing
 Setelah file terunduh, saatnya untuk menginstalnya. Jangan khawatir, prosesnya semudah membalik telapak tangan!
 1. **Eksekusi File**: Temukan file installer yang baru saja Anda unduh (biasanya di folder "Downloads"), lalu klik dua kali untuk menjalankannya.
 2. **Ikuti Panduan Ajaib🪄**: Sebuah jendela instalasi akan muncul. Cukup klik "Next", "I Agree" (setelah membaca persyaratannya tentu saja!), dan "Install" di setiap langkah.
+
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/instalasi%20anaconda.png)
 
-	-Penting! Saat Anda melihat opsi seperti "Add Anaconda to my PATH environment variable" atau "Register Anaconda as my default Python", centang keduanya (jika ada). Ini akan membuat Anaconda lebih mudah diakses nanti.
+
+  -Penting! Saat Anda melihat opsi seperti "Add Anaconda to my PATH environment variable" atau "Register Anaconda as my default Python", centang keduanya (jika ada). Ini akan membuat Anaconda lebih mudah diakses nanti.
 3. **Selesaikan Misi✅**: Biarkan proses instalasi berjalan hingga selesai. Ini mungkin butuh beberapa menit, tergantung kecepatan komputer Anda. Setelah selesai, klik "Finish".
 
 
