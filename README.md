@@ -231,7 +231,7 @@ Berikut langkah-langkahnya:
 
 Conda dan UV adalah dua alat manajemen paket dan lingkungan virtual yang populer dalam ekosistem Python, tetapi mereka memiliki filosofi dan cakupan yang berbeda. Memahami perbedaannya akan membantu Anda memilih alat yang tepat untuk kebutuhan proyek Anda.
 
-![image]()
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Anaconda%20vs%20UV.png)
 
 ## 📌Kesimpulan
 
