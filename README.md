@@ -149,4 +149,12 @@ Jadi, daripada pusing mikirin konflik, pakai saja Conda untuk membuat "ruangan" 
 Berikut langkah-langkah jika ingin membuat lingkungan conda baru 
 
 	- Jalankan perintah berikut di terminal: conda create -n nama_env python=3.9
-  
+
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Lingkungan%20conda.png)
+
+Do's:
+- Gunakan nama environment yang deskriptif dan mudah diingat.
+- Jangan buat environment tanpa kebutuhan.
+
+Don'ts:
+- Jangan install semua paket di environment base.
