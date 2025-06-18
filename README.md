@@ -225,7 +225,7 @@ Berikut langkah-langkahnya:
 
 	2. Prompt kembali ke C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv>.
 
-![image]()
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Menonaktifkan%20UV.png)
 
 ### 5: Perbandingan Conda vs UV
 
