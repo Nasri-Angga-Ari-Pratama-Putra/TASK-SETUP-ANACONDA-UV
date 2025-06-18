@@ -36,7 +36,7 @@ Saat Anda perlu menginstal banyak pustaka atau mengatur dependensi yang rumit, U
 Jadi, dengan Anaconda sebagai studio lengkap Anda, Conda sebagai pengatur lingkungan yang rapi, dan UV sebagai asisten super cepat, Anda punya tim yang tak terkalahkan untuk menjamin proyek Python Anda selalu berjalan lancar. Siap untuk membuat kode tanpa hambatan?
 
 ---
-## Siap Mendapatkan Kekuatan Penuh Python Anda? Begini Cara Mengunduhnya!
+## Bagian 1: Siap Mendapatkan Kekuatan Penuh Python Anda? Begini Cara Mengunduhnya!
 
 ### Misi 1🎯: Dapatkan Anaconda – Gerbang Menuju Dunia Data!
 
@@ -158,3 +158,21 @@ Do's:
 
 Don'ts:
 - Jangan install semua paket di environment base.
+
+## Bagian 2: ✍️Membuat UV Environment!
+
+**Apa Itu UV Environment?**
+Ini bukan manajer lingkungan baru, melainkan lingkungan virtual Python standar (venv) yang ditenagai oleh UV. UV adalah manajer paket super cepat yang akan membuat instalasi paket di lingkungan venv Anda jadi ngebut!
+
+**Kenapa Pakai UV?**
+Cepat Banget! UV ditulis ulang dari awal di Rust, membuatnya jauh lebih ngebut daripada pip atau Conda saat menginstal dan mencari dependensi. Bayangkan proses yang biasanya menit, jadi cuma hitungan detik!
+Resolusi Dependensi Pintar: UV sangat cerdas dalam menemukan versi paket yang cocok, mengurangi masalah "neraka dependensi" dan error.
+Pengganti pip & venv yang Lebih Keren: Ini adalah upgrade performa langsung untuk alur kerja pip dan venv yang mungkin sudah biasa Anda pakai.
+Ringan & Efisien: UV fokus pada satu misi: manajemen paket Python yang efisien. Ini membuatnya lebih ringan daripada Conda yang serbaguna.
+Singkatnya: Pilih UV ketika Anda butuh kecepatan maksimal untuk proyek Python murni Anda. Ini adalah alat baru yang wajib Anda coba untuk pengalaman coding yang lebih mulus!
+
+Berikut cara membuat uv environment baru:
+	1. Pastikan lingkungan Conda tidak aktif (jalankan conda deactivate jika perlu).
+	2. Ketik: pip install uv
+	3. jika keluar output seperti Successfully installed uv-0.7.12 maka pembuatan uv environment baru berhasil
+
