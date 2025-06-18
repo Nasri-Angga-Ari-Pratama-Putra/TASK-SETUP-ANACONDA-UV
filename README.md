@@ -93,5 +93,39 @@ Jadi, setelah menginstal, jangan lewatkan langkah verifikasi ini ya! Ini akan sa
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Verifikasi%20conda.png)
 
+	Do's:
+	- Gunakan terminal baru setelah instalasi untuk memastikan variabel PATH terbaru terbaca   - Pastikan perintah dijalankan tanpa error.
+	Don'ts:
+	- Jangan abaikan error atau tidak muncul versi, cek pemasangan kembali.
+
+### Misi 4🎯: Mengkonfigurasi variabel lingkungan PATH untuk Conda dan Anacond
+
+**📝Memahami Variabel Lingkungan PATH**
+
+Variabel PATH adalah daftar direktori (folder) yang dicari oleh sistem operasi Anda ketika Anda mengetikkan suatu perintah. Misalnya, ketika Anda mengetik python atau conda di terminal, sistem operasi Anda akan mencari file eksekusi bernama python.exe atau conda.exe di semua direktori yang terdaftar di variabel PATH. Jika tidak ada di PATH, Anda harus mengetikkan jalur lengkap ke program tersebut, yang tentu saja sangat merepotkan.
+
+Tujuan konfigurasi PATH untuk Anaconda/Conda:
+
+- Memastikan Anda bisa menjalankan perintah conda dan python (yang berasal dari instalasi Anaconda Anda) dari Command Prompt atau Terminal mana saja.
+- Menghindari konflik dengan instalasi Python lain yang mungkin sudah ada di sistem Anda.
+
+**💡Cara Konfigurasi Variabel Lingkungan PATH untuk Conda dan Anaconda**
+
+1. Jika Anda TIDAK Mencentang "Add Anaconda to my PATH" saat instalasi:
+Anda HARUS selalu menggunakan "Anaconda Prompt" (cari di Start Menu) untuk menjalankan perintah conda dan python yang terkait dengan Anaconda. Anaconda Prompt secara otomatis mengkonfigurasi PATH untuk sesi tersebut. Ini adalah cara paling aman untuk menghindari konflik.
+2. Jika Anda ingin MENAMBAHKAN Anaconda ke PATH secara manual (dengan hati-hati):
+Ini hanya disarankan jika Anda memahami risiko konflik dan tahu cara mengatasinya.
+	- Cari Jalur Instalasi Anaconda Anda. Biasanya di C:\Users\YourUsername\anaconda3 atau C:\ProgramData\anaconda3.
+	- Anda perlu menambahkan beberapa sub-folder dari instalasi Anaconda ke PATH. Biasanya ini adalah:
+C:\Users\YourUsername\anaconda3 (atau lokasi instalasi Anda)
+3. Buka Pengaturan Variabel Lingkungan:
+ 	 - Tekan Windows + R, ketik sysdm.cpl, lalu tekan Enter.
+  	 - Pilih tab "Advanced", lalu klik "Environment Variables...".
+   	 - i bagian "System variables" atau "User variables" (lebih disarankan di "User variables" untuk akun Anda sendiri), temukan variabel bernama Path.
+  	 - Klik "Edit...".
+  	 - Klik "New" dan tambahkan setiap jalur di atas satu per satu. Pastikan urutannya benar (jalur Anaconda biasanya diletakkan di bagian atas daftar agar diprioritaskan).
+  	 - Klik "OK" untuk semua jendela yang terbuka.
+4. Restart Command Prompt/Terminal. Perubahan PATH tidak akan langsung berlaku di jendela yang sudah terbuka.
+
 
 
