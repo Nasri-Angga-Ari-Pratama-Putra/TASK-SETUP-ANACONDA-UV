@@ -196,4 +196,38 @@ Jawabannya sederhana: agar proyek Python Anda berjalan lancar, teratur, dan beba
 	2. Ketik: uv init ghost_intellixuv
 	3. Output menunjukkan proyek diinisialisasi di C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv.
 
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Menginisialisasi%20UV.png)
+
+### 3: Install Paket Yang Dibutuhkan
+
+Menginstal paket yang dibutuhkan itu artinya menambahkan pustaka atau modul Python eksternal ke dalam lingkungan proyek kalian agar kode Anda bisa menggunakannya.
+
+Bayangkan kalian sedang membangun sebuah rumah (proyek Python). kalian punya tukang (kode Python Anda), tapi si tukang ini butuh alat-alat khusus, seperti bor, palu, atau gergaji (paket atau modul). "Menginstal paket yang dibutuhkan" berarti kalian menyediakan alat-alat tersebut kepada tukang kalian.
+
+**Mengapa Ini Penting?**
+Python memiliki banyak fungsi bawaan, tapi sering kali kalian butuh fungsionalitas yang lebih spesifik atau kompleks yang sudah dibuat oleh pengembang lain. Daripada harus menulis semua kode dari nol, kalian bisa "mengimpor" atau menggunakan paket-paket yang sudah tersedia.
+
+Berikut langkah-langkah yang harus dilakukan:
+
+	1. Ketik: uv add pandas
+    
+	2. maka outputnya akan seperti ini :
+
 ![image]()
+
+### 4: Menonaktifkan Lingkungan UV
+
+Menonaktifkan lingkungan UV adalah tentang kontrol dan kejelasan. Ini memberimu fleksibilitas untuk beralih antar proyek, kembali ke lingkungan sistem, dan menjaga ruang kerjamu tetap teratur.
+
+Berikut langkah-langkahnya:
+
+	1. Ketik: .venv\Scripts\deactivate
+
+	2. Prompt kembali ke C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv>.
+
+![image]()
+
+### 5: Perbandingan Conda vs UV
+
+Conda dan UV adalah dua alat manajemen paket dan lingkungan virtual yang populer dalam ekosistem Python, tetapi mereka memiliki filosofi dan cakupan yang berbeda. Memahami perbedaannya akan membantu Anda memilih alat yang tepat untuk kebutuhan proyek Anda.
+ 
