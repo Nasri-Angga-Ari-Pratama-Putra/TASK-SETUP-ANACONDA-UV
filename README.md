@@ -62,6 +62,9 @@ Setelah file terunduh, saatnya untuk menginstalnya. Jangan khawatir, prosesnya s
 	-Penting! Saat Anda melihat opsi seperti "Add Anaconda to my PATH environment variable" atau "Register Anaconda as my default Python", centang keduanya (jika ada). Ini akan membuat Anaconda lebih mudah diakses nanti.
 3. **Selesaikan Misi✅**: Biarkan proses instalasi berjalan hingga selesai. Ini mungkin butuh beberapa menit, tergantung kecepatan komputer Anda. Setelah selesai, klik "Finish".
 
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/instalasi%20anaconda.png)
+
+
 🎉Selamat! Anda kini telah berhasil menginstal Anaconda dan siap menjelajahi dunia data science dan pemrograman Python dengan perangkat canggih di tangan Anda!👏
 
 ### Misi 3🎯: Verifikasi Anaconda yang sudah terinstall
