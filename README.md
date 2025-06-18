@@ -6,7 +6,7 @@ No absen 10.003.DB2025
 
 Asal saya dari Jambi
 
-## Halo sahabat eco techno leader dan sobat semua👏
+## 👋Halo sahabat eco techno leader dan sobat semua
 
 ---
 
@@ -14,9 +14,9 @@ Asal saya dari Jambi
 
 ### Jaminan Python Anda Berjalan Mulus: Kenalan dengan Anaconda, Conda, dan UV!
 
-Pernahkah Anda merasa pusing saat ingin mencoba proyek Python baru, tapi tiba-tiba "Python Anda yang satu ini" bertabrakan dengan "Python Anda yang itu"? Atau, pustaka yang Anda butuhkan versinya malah bentrok dengan pustaka lain? Nah, itu dia yang namanya neraka dependensi!
+Pernahkah Anda merasa pusing😵‍💫 saat ingin mencoba proyek Python baru, tapi tiba-tiba "Python Anda yang satu ini" bertabrakan dengan "Python Anda yang itu"? Atau, pustaka yang Anda butuhkan versinya malah bentrok dengan pustaka lain? Nah, itu dia yang namanya neraka dependensi!
 
-Jangan khawatir, karena ada trio penyelamat yang akan membuat hidup Anda jauh lebih mudah. Anggap saja mereka adalah tim ahli yang memastikan semua proyek Python Anda berjalan mulus tanpa masalah!
+Jangan khawatir🤗, karena ada trio penyelamat yang akan membuat hidup Anda jauh lebih mudah. Anggap saja mereka adalah tim ahli yang memastikan semua proyek Python Anda berjalan mulus tanpa masalah!
 
 Anaconda🐍: Studio Lengkap untuk Ilmu Data
 Bayangkan Anda seorang musisi. Anaconda ini seperti studio rekaman lengkap yang sudah dilengkapi dengan semua instrumen, mikrofon, dan perangkat lunak canggih yang siap pakai. Ini bukan cuma Python, tapi sebuah distribusi Python yang berisi semua alat yang dibutuhkan para ilmuwan data dan ahli machine learning, termasuk Conda di dalamnya.
