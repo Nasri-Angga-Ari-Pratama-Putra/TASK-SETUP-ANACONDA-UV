@@ -50,8 +50,8 @@ Untuk pengalaman terlengkap dan termudah, kita akan memulai dengan Anaconda. Ing
 
 	Do's:
 	- Download dari situs resmi Anaconda
-	- Simpan installer di folder yang mudah diakses
+	- Simpan installer di folder yang dapat diakses dengan mudah
 	Don'ts:
-	- Jangan download dari sumber tidak resmi
+	- Jangan download dari sumber tidak resmi atau pihak ketiga
 	- Jangan simpan di folder system
 
