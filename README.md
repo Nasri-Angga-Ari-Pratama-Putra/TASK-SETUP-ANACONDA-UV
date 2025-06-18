@@ -177,3 +177,4 @@ Berikut cara membuat uv environment baru:
 	2. Ketik: pip install uv
 	3. jika keluar output seperti Successfully installed uv-0.7.12 maka pembuatan uv environment baru berhasil
 
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/UV%20Environment.png)
