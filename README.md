@@ -159,7 +159,9 @@ Do's:
 Don'ts:
 - Jangan install semua paket di environment base.
 
-## Bagian 2: ✍️Membuat UV Environment!
+## Bagian 2: UV Environment!
+
+### 1: Membuat Environment Baru
 
 **Apa Itu UV Environment?**
 Ini bukan manajer lingkungan baru, melainkan lingkungan virtual Python standar (venv) yang ditenagai oleh UV. UV adalah manajer paket super cepat yang akan membuat instalasi paket di lingkungan venv Anda jadi ngebut!
@@ -178,3 +180,21 @@ Berikut cara membuat uv environment baru:
 	3. jika keluar output seperti Successfully installed uv-0.7.12 maka pembuatan uv environment baru berhasil
 
 ![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/UV%20Environment.png)
+
+### 2: Menginisialisasi Proyek UV
+
+**Apa itu Inisialisasi Proyek UV?**
+
+Menginisialisasi proyek UV itu berarti kalian sedang "menyelenggarakan" proyek Python baru dengan lingkungan yang terisolasi dan semua alat yang diperlukan sudah tertata rapi. Ini langkah awal yang sangat penting agar proyek kalian berjalan lancar tanpa bentrok dengan proyek lain.
+
+**Kenapa sih kita perlu menginisialisasi proyek UV?**
+
+Jawabannya sederhana: agar proyek Python Anda berjalan lancar, teratur, dan bebas masalah. Anggap saja ini seperti menyiapkan dapur khusus untuk setiap jenis masakan yang berbeda. Anda tentu tidak ingin bumbu untuk kue tercampur dengan bumbu untuk soto, kan?
+
+	Berikut langkah-langkah menginisialisasi proyek UV:
+	1. Pastikan environment UV sudah aktif
+	2. Ketik: uv init ghost_intellixuv
+           Cd ghost intellixuv
+	3. Output menunjukkan proyek diinisialisasi di C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv.
+
+
