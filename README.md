@@ -213,7 +213,7 @@ Berikut langkah-langkah yang harus dilakukan:
     
 	2. maka outputnya akan seperti ini :
 
-![image]()
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Install%20paket.png)
 
 ### 4: Menonaktifkan Lingkungan UV
 
