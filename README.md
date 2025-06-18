@@ -127,5 +127,5 @@ C:\Users\YourUsername\anaconda3 (atau lokasi instalasi Anda)
   	 - Klik "OK" untuk semua jendela yang terbuka.
 4. Restart Command Prompt/Terminal. Perubahan PATH tidak akan langsung berlaku di jendela yang sudah terbuka.
 
-
+![image](https://github.com/Nasri-Angga-Ari-Pratama-Putra/TASK-SETUP-ANACONDA-UV/blob/main/Edit%20environment.png)
 
